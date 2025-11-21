@@ -1,0 +1,4 @@
+%nprocshared=96
+%mem=10GB
+%chk=IM3.chk
+# scrf=(solvent=n,n-dimethylformamide) def2tzvp m062x geom=allcheck
