@@ -1,0 +1,10 @@
+%nprocshared=16
+%mem=50GB
+%chk=Cl.chk
+# freq 6-311+g(d,p) em=gd3 m062x
+
+Title Card Required
+
+-1 1
+ Cl                -2.57539100   -0.00036000   -0.00087800
+
